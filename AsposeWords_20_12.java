@@ -1,6 +1,5 @@
 import javassist.ClassPool;
 import javassist.CtClass;
-import javassist.CtMethod;
 
 public class AsposeWords_20_12 {
     public static void main(String[] args) throws Exception {

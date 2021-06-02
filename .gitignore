@@ -1,3 +1,7 @@
 .idea
+*.iml
+target/
+com/
+fonts/
 *.class
-文档.*
+aspose-*.jar
